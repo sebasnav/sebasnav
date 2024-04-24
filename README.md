@@ -1,20 +1,17 @@
-![Sebas Banner](https://github.com/sebasnav/sebasnav/assets/89879669/85cc33ad-76f5-4b90-82d1-a61363d3856f)
+  <h1 align="center">
+ Hello!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+![Sebas](https://github.com/sebasnav/sebasnav/assets/89879669/0eb2f728-e322-44f7-98ad-3c51ddfff334)
 
 <div id="header" align="center">
-  <img src="https://rapidapi.com/blog/wp-content/uploads/2016/12/giphy-11.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/sebas-navarrete/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=sebasnav&color=blue" alt=""/>
-  <h1>
- Hello!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://www.digimoz.com/images/QA-banner.jpg" width="800" height="300"/>
 </div>
 
 
