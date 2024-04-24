@@ -22,12 +22,11 @@
 ```javascript
 const sebas = {
   pronouns: "he" | "him",
+  passions: ['Quality Assurance','performance web', 'web development']
   code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [Angular, Docker],
 }
 ```
 
-<h1 align="center">Hi 👋, I'm Sebastian</h1>
 
 I am a QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
 - :telescope: I’m working as a Junior QA contributing in projects in remotely Costa Rica.
@@ -65,7 +64,6 @@ I am a QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 ---
 
 ### :fire: My Stats :
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebasnav" alt="thefreerangetester" /></a> </p>
 <div align="center">  
   <img src="http://github-readme-streak-stats.herokuapp.com?user=sebasnav&theme=dark&background=000000" width="600"/>
 </div>
@@ -73,4 +71,3 @@ I am a QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasnav&layout=compact&theme=vision-friendly-dark" width="600"/>
 </div>
 
-[![sebasnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebasnav)](https://github.com/anuraghazra/github-readme-stats)
