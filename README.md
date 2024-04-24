@@ -44,7 +44,7 @@ class Skills extends SoftwareDeveloper {
 
 
 I am a QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
-- :telescope: I’m working as a Junior QA contributing in projects in remotely Costa Rica.
+- :telescope: I am currently working as a Junior QA remotely for a company in Costa Rica..
 
 - 🌱 I’m currently learning **QA automation**
 
