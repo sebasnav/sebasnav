@@ -20,7 +20,7 @@
 I am a QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
 - :telescope: I’m working as a Junior QA contributing in projects in remotely Costa Rica.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebas-navarrete/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sebas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebas-navarrete/)
 
 ---
 
