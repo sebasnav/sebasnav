@@ -19,11 +19,22 @@
 ---
 ### :man_technologist: About Me :
 
-```javascript
-const sebas = {
-  pronouns: "he" | "him",
-  passions: ['Quality Assurance','performance web', 'web development']
-  code: [Javascript, Typescript, HTML, CSS, Java],
+```js
+import SoftwareDeveloper from 'sebasNavarrete';
+
+class Bio extends SoftwareDeveloper {
+  name = 'Navarrete Sebastian';
+  pronouns: "he" | "him":
+  passions: 'Quality Assurance','performance web', 'web development';
+  title    = 'QA tester';
+  company  = 'Logosoft | Remote';
+  location = 'Costa Rica';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = [Javascript, Typescript, HTML, CSS, Java];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'SQLServer'];
+  frameworks = ['Playwright', 'Cypress'];
 }
 ```
 
