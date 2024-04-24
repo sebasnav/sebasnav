@@ -22,6 +22,8 @@ I am a QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sebas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebas-navarrete/)
 
+- - 🌱 I’m currently learning **QA automation**
+
 ---
 
 ### :hammer_and_wrench: Languages and Dev Tools :
