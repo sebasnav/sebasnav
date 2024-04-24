@@ -1,3 +1,5 @@
+![Sebas Banner](https://github.com/sebasnav/sebasnav/assets/89879669/85cc33ad-76f5-4b90-82d1-a61363d3856f)
+
 <div id="header" align="center">
   <img src="https://rapidapi.com/blog/wp-content/uploads/2016/12/giphy-11.gif" width="200"/>
   <div id="badges">
